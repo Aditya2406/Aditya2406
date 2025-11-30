@@ -7,9 +7,9 @@
 
 ## 🚀 Professional Summary
 
- I am a **Mathematics-inspired Python developer** with **5 years of experience** in web application and API development[cite: 5].  My expertise lies in building scalable, intelligent systems using **Tornado, Django, FastAPI, and Flask**[cite: 5].
+ I am a **Mathematics-inspired Python developer** with **5 years of experience** in web application and API development.  My expertise lies in building scalable, intelligent systems using **Tornado, Django, FastAPI, and Flask**.
 
-I bridge the gap between complex AI/ML logic and practical web solutions.  I am skilled in building and deploying AI/ML models, optimizing edge computing, and integrating secure payment gateways like Razorpay[cite: 6].  I focus on creating efficient systems that solve real-world problems through mathematical logic and analytical design[cite: 7].
+I bridge the gap between complex AI/ML logic and practical web solutions.  I am skilled in building and deploying AI/ML models, optimizing edge computing, and integrating secure payment gateways like Razorpay[cite: 6].  I focus on creating efficient systems that solve real-world problems through mathematical logic and analytical design.
 
 ---
 
@@ -29,53 +29,53 @@ I deliver full-stack solutions for startups, artists, and healthcare providers. 
 ## 🛠 Tech Stack
 
 **Languages & Core:**
-*  Python, C, C++ [cite: 44, 45]
-*  HTML [cite: 46]
+*  Python, C, C++ 
+*  HTML
 
 **Backend & Web Frameworks:**
-*  Django, FastAPI, Flask, Tornado [cite: 5]
-*  Node.js, Next.js, Angular.js [cite: 11]
+*  Django, FastAPI, Flask, Tornado 
+*  Node.js, Next.js, Angular.js 
 
 **AI & Machine Learning:**
-*  NLP (Natural Language Processing) & Semantic Analysis [cite: 19]
-*  Recommendation Systems [cite: 18]
-*  Deep Learning in physical security systems [cite: 24]
+*  NLP (Natural Language Processing) & Semantic Analysis
+*  Recommendation Systems 
+*  Deep Learning in physical security systems
 
 **Databases & Infrastructure:**
-*  MongoDB, SQL, MySQL [cite: 12, 53, 54]
-*  AWS Deployment [cite: 20]
-*  RESTful APIs & Payment Integration [cite: 16, 17]
+*  MongoDB, SQL, MySQL 
+*  AWS Deployment 
+*  RESTful APIs & Payment Integration 
 
 ---
 
 ## 💼 Work Experience
 
 **Software Developer | Synclovis Systems Pvt. Ltd.**
- *Aug 2025 - Present* [cite: 10]
-*  Developing backend systems for visitor management and library management applications using **Node.js, Next.js, Angular.js, and Django**[cite: 11].
-*  Designing and optimizing databases using **SQL, MySQL, and MongoDB** across various architectures[cite: 12].
+ *Aug 2025 - Present* 
+*  Developing backend systems for visitor management and library management applications using **Node.js, Next.js, Angular.js, and Django**.
+*  Designing and optimizing databases using **SQL, MySQL, and MongoDB** across various architectures.
 
 **Python Backend Developer | Compagnie Congolaise de Loisir**
- *Sept 2024 - May 2025* [cite: 14]
-*  Built high-performance banking and transactional APIs ensuring reliability and security[cite: 15].
-*  Integrated secure payment processing systems and managed real-time transaction workflows[cite: 16, 17].
+ *Sept 2024 - May 2025* 
+*  Built high-performance banking and transactional APIs ensuring reliability and security.
+*  Integrated secure payment processing systems and managed real-time transaction workflows.
 
 **System Architect & Model Engineer | iQuestStar Edutech Pvt. Ltd.**
- *Jun 2021 - Aug 2024* [cite: 22]
-*  **Led tech development and backend architecture** for 3 years at this AI-focused startup[cite: 49].
-*  Developed analytical models to interpret student performance data for academic evaluation[cite: 23].
-*  Implemented ML and Deep Learning models in real-world physical security systems[cite: 24].
+ *Jun 2021 - Aug 2024* 
+*  **Led tech development and backend architecture** for 3 years at this AI-focused startup=.
+*  Developed analytical models to interpret student performance data for academic evaluation=.
+*  Implemented ML and Deep Learning models in real-world physical security systems.
 
 **Recommendation System Project | Unlink Technologies**
-*  Developed a recommendation model using **NLP** and semantic analysis[cite: 19].
-*  Successfully deployed the model on **AWS**, ensuring scalability[cite: 20].
+*  Developed a recommendation model using **NLP** and semantic analysis.
+*  Successfully deployed the model on **AWS**, ensuring scalability.
 
 ---
 
 ## 🏆 Achievements & Education
 
-*  **Patent Holder (2025):** Published "An Advanced Reconnaissance Intelligent System"[cite: 50, 51].
-* **B.Tech in Computer Science:** Raffles University, Neemrana (2021-2025) |  **GPA: 8.2/10.0**[cite: 29, 30, 32, 33].
+*  **Patent Holder (2025):** Published "An Advanced Reconnaissance Intelligent System".
+* **B.Tech in Computer Science:** Raffles University, Neemrana (2021-2025) .
 
 ---
 
