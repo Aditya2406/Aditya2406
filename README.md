@@ -24,6 +24,7 @@ I deliver full-stack solutions for startups, artists, and healthcare providers. 
 | **Grow Organic** | An Agritech company portfolio designed to showcase sustainable organic farming solutions. | [Visit Website](https://www.groworganic.co) |
 | **iQuestStar Edutech** | Portfolio website for an AI-based startup, reflecting high-tech capabilities and educational services. | [Visit Website](https://iqueststar.com) |
 | **Medex Global Care** | Trusted Medical Tourism Company in India Hospital and Doctors Network Management System. | [Visit Website](https://medexglobalcare.com) |
+| **Eyeone Prime Vision Center** | Eye Healt Care Website , Blogs and Doctors Management. | [Visit Website](https://eyeonecentre.com) |
 
 ---
 
@@ -31,11 +32,13 @@ I deliver full-stack solutions for startups, artists, and healthcare providers. 
 
 **Languages & Core:**
 *  Python, C, C++ 
-*  HTML
+*  HTML , JS , Type Script 
 
 **Backend & Web Frameworks:**
 *  Django, FastAPI, Flask, Tornado 
-*  Node.js, Next.js, Angular.js 
+*  Node.js, Next.js, Angular.js
+*  Convex
+*  Next Js
 
 **AI & Machine Learning:**
 *  NLP (Natural Language Processing) & Semantic Analysis
@@ -43,7 +46,8 @@ I deliver full-stack solutions for startups, artists, and healthcare providers. 
 *  Deep Learning in physical security systems
 
 **Databases & Infrastructure:**
-*  MongoDB, SQL, MySQL 
+*  MongoDB, SQL, MySQL
+*  Convex database
 *  AWS Deployment 
 *  RESTful APIs & Payment Integration 
 
