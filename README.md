@@ -9,7 +9,7 @@
 
  I am a **Mathematics-inspired Python developer** with **5 years of experience** in web application and API development.  My expertise lies in building scalable, intelligent systems using **Tornado, Django, FastAPI, and Flask**.
 
-I bridge the gap between complex AI/ML logic and practical web solutions.  I am skilled in building and deploying AI/ML models, optimizing edge computing, and integrating secure payment gateways like Razorpay[cite: 6].  I focus on creating efficient systems that solve real-world problems through mathematical logic and analytical design.
+I bridge the gap between complex AI/ML logic and practical web solutions.  I am skilled in building and deploying AI/ML models, optimizing edge computing, and integrating secure payment gateways like Razorpay.  I focus on creating efficient systems that solve real-world problems through mathematical logic and analytical design.
 
 ---
 
