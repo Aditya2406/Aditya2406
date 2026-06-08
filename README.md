@@ -20,7 +20,6 @@ I deliver full-stack solutions for startups, artists, and healthcare providers. 
 | Project Name | Description | Live Link |
 | :--- | :--- | :--- |
 | **JUGNU** | A comprehensive platform for artists to publish songs. A one-stop solution for artist management and distribution. | [Visit Website](https://www.letsjugnu.com) |
-| **Tooth Corner Jaipur** | A professional business website for a dental clinic in Jaipur to manage their digital presence. | [Visit Website](https://thetoothcornerjaipur.com) |
 | **Grow Organic** | An Agritech company portfolio designed to showcase sustainable organic farming solutions. | [Visit Website](https://www.groworganic.co) |
 | **iQuestStar Edutech** | Portfolio website for an AI-based startup, reflecting high-tech capabilities and educational services. | [Visit Website](https://iqueststar.com) |
 | **Medex Global Care** | Trusted Medical Tourism Company in India Hospital and Doctors Network Management System. | [Visit Website](https://medexglobalcare.com) |
