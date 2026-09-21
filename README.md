@@ -16,17 +16,17 @@ I focus on building reliable, scalable solutions grounded in mathematical reason
 
 ---
 
-## 💻 Website Portfolio by Sector
-
 ### 🏥 Healthcare & Medical Tourism
 
-**Use cases:** Doctor discovery, hospital networks, healthcare content, patient engagement, and medical tourism coordination.
+**Use cases:** Fertility care, doctor discovery, hospital networks, healthcare content management, patient enquiries, and medical tourism coordination.
 
-| Project                        | Website Purpose & Use Case                                                                                                                              | Live Website                                       |
-| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------- |
-| **Medex Global Care**          | Medical tourism platform connecting patients with hospitals and doctors in India, supported by hospital and doctor network management.                  | [medexglobalcare.com](https://medexglobalcare.com) |
-| **GynecHub**                   | Women’s healthcare platform supporting verified gynaecologist discovery, appointment requests, doctor onboarding, educational blogs, and community Q&A. | [gynechub.com](https://www.gynechub.com)           |
-| **Eyeone Prime Vision Center** | Eye care website presenting clinical services and doctor information, with blog and doctor management capabilities.                                     | [eyeonecentre.com](https://eyeonecentre.com)       |
+| Project                        | Website Purpose & Use Case                                                                                                                                                      | Live Website                                       |
+| :----------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | :------------------------------------------------- |
+| **Yellow Fertility & IVF**     | Fertility healthcare platform showcasing IVF services, doctors, and clinic locations, with a custom admin panel for content management, patient enquiries, and CRM integration. | [yellowivf.com](https://www.yellowivf.com)         |
+| **Medex Global Care**          | Medical tourism platform connecting patients with hospitals and doctors in India, supported by hospital and doctor network management.                                          | [medexglobalcare.com](https://medexglobalcare.com) |
+| **GynecHub**                   | Women’s healthcare platform supporting verified gynaecologist discovery, appointment requests, doctor onboarding, educational blogs, and community Q&A.                         | [gynechub.com](https://www.gynechub.com)           |
+| **Eyeone Prime Vision Center** | Eye care website presenting clinical services and doctor information, with blog and doctor management capabilities.                                                             | [eyeonecentre.com](https://eyeonecentre.com)       |
+
 
 ### 🎵 Entertainment, Artists & Events
 
